@@ -1,0 +1,30 @@
+<style>
+        h1{
+            color:green;
+            text-align: center;
+            font-style :italic;
+                
+        }
+        Body{
+            background-color:black;
+            font-style:oblique;
+        }
+       #para1{
+        color:gold;
+           font-style:italic
+            }
+        .para2{
+            
+            font-size: 60;
+        }
+        
+        table{border: 5px red;
+            padding: 10px;
+            
+        }
+        
+        
+        
+        
+        
+        </style>
